@@ -4,7 +4,7 @@ export const VideoContainer = ({ videos = [], setOpenModalUpdate, setVideoId }) 
   return (
     <>
             <section className='hidden md:block '>
-                <img className='lg:block lg:w-full' src="src/assets/banner-main.png" alt="Banner Main" />
+                <img className='lg:block lg:w-full' src="https://firebasestorage.googleapis.com/v0/b/react-firebase-alurageek.appspot.com/o/banner-main.png?alt=media&token=3082f265-6110-4dab-a820-515634bf88e4" alt="Banner Main" />
             </section>
 
             <div className='flex flex-wrap justify-center gap-5 *:w-[380px] *:uppercase *:font-bold p-4'> 
