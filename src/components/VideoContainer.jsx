@@ -4,7 +4,7 @@ export const VideoContainer = ({ videos = [], setOpenModalUpdate, setVideoId }) 
   return (
     <>
             <section className='hidden md:block '>
-                <img className='lg:block lg:w-full' src="src/assets/banner-main.png" alt="Banner Main" />
+                <img className='lg:block lg:w-full' src="/assets/banner-main.png" alt="Banner Main" />
             </section>
 
             <div className='flex flex-wrap justify-center gap-5 *:w-[380px] *:uppercase *:font-bold p-4'> 
